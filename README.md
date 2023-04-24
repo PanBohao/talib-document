@@ -1,6 +1,6 @@
 # TA-Lib
 # 简介：
-Talib一直缺乏有效的中文文档，自己又有空闲时间，且在研究量化对冲系统，就发点时间，做一下翻译。
+Talib一直缺乏有效的中文文档，自己又有空闲时间，且在研究量化对冲系统，就花了点时间，做一下翻译。
 原文地址： [TA-LIB document](https://mrjbq7.github.io/ta-lib/)
 翻译地址：
 
@@ -308,6 +308,3 @@ TSF                  Time Series Forecast
 VAR                  Variance
 ```
 
-我想成为一名依靠乞讨的程序员。   
-
-![164938069.png](https://upload-images.jianshu.io/upload_images/6167081-bd931bef186e212e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
